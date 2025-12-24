@@ -68,29 +68,21 @@ Tableau Dashboard: <br/>
 <img width="1244" height="843" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/7a338219-99db-4bfb-8ff3-1816d7a99ae1" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Filtering by Segment- for Champions:  <br/>
+<img width="1234" height="814" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/a99b445a-5025-4b58-aaae-08f95cec3fef" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adjusting the scale for Recency of purchase: <br/>
+<img width="1223" height="808" alt="Screenshot (551)" src="https://github.com/user-attachments/assets/25a50491-3651-4a42-b204-5eec9090de06" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adjusting the scale for Frequency of purchase:  <br/>
+<img width="1217" height="808" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/5c7733d4-439a-4334-b783-7260592b41a6" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adjusting the scale for Monetary Value of purchase:  <br/>
+<img width="1227" height="814" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/ab80cf98-7bab-4037-836d-608ae3b2e8ce" />
 <br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
