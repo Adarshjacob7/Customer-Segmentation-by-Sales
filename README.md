@@ -1,6 +1,6 @@
 <h1>Customer Segementation dashboard by Sales</h1>
 
- ### [LINK TO BE UPLOADED](https://youtu.be/7eJexJVCqJo)
+ ### [LINK TO BE UPLOADED]()
 
 <h2>Description</h2>
 This project implements a Customer Segmentation Dashboard using RFM (Recency, Frequency, Monetary) analysis to identify meaningful customer groups and support data-driven business decisions. The analysis was performed using SQL for data processing and scoring, and Tableau for interactive visualization.
